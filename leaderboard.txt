@@ -1,0 +1,6 @@
+1,sayem,900
+1,Turjo,900
+1,Guest,300
+2,Turjo,1100
+3,Turjo,850
+3,turjo,800
